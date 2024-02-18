@@ -1,0 +1,21 @@
+*,
+*::after,
+::before {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+}
+a {
+  color: dimgray;
+}
+a:hover {
+  color: black;
+}
+hr {
+  margin: 0 10px;
+}
+html {
+  font-size: 62.5%;
+}
